@@ -41,7 +41,7 @@ The course uses publicly available, high-quality datasets:
 
 To complete the exercises and models, you will need:
 
-- [**R**][go](https://cran.r-project.org/){:target="_blank"} – Statistical programming language 
+- [**R**](https://cran.r-project.org/) – Statistical programming language 
   
 - [**RStudio**](https://posit.co/download/rstudio-desktop/) – User-friendly IDE for R
 
