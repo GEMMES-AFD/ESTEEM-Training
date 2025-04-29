@@ -1,6 +1,6 @@
 # 📘 ESTEEM Training Kit
 
-Welcome to the **ESTEEM Training Kit** — an introductory and interactive course designed to equip you with the general tools to model macroeconomic constraints of the low-carbon transition, including sectoral transition dynamics, in developing countries. The course will provide information, the theoretical concepts of IO modeling, a deep understanding of related modeling techniques, and a comprehensive overview of the ESTEEM model developed by the French Development Agency (AFD), focusing both on the static and dynamic approaches. This interactive training package provides background knowledge, guided exercises, real-world data, and four core models to help you explore and master the ESTEEM model effectively.
+Welcome to the **ESTEEM Training Kit** — an introductory and interactive course designed to equip you with the general tools to model macroeconomic constraints of the low-carbon transition, including sectoral transition dynamics, in developing countries. The course will provide information on the theoretical concepts of IO modeling, a deep understanding of related modeling techniques, and a comprehensive overview of the ESTEEM model developed by the French Development Agency (AFD), focusing both on the static and dynamic approaches. This interactive training package provides background knowledge, guided exercises, real-world data, and four core models to help you explore and master the ESTEEM model effectively.
 
 ## 🎯 Objective
 
