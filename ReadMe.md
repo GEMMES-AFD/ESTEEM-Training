@@ -1,10 +1,10 @@
 # 📘 ESTEEM Training Kit
 
-Welcome to the **ESTEEM Training Kit** — an introductory and interactive course designed to equip you with the general tools to model macroeconomic constraints of the low-carbon transition, including sectoral transition dynamics, in developing countries. The course will provide information the theoretical concepts of IO modeling, a deep understanding of related modeling techniques, and a comprehensive overview of the ESTEEM model developed by the French Development Agency (AFD) focusing both on the static and dynamic approaches. This interactive training package provides background knowledge, guided exercises, real-world data, and four core models to help you explore and master the ESTEEM model effectively.
+Welcome to the **ESTEEM Training Kit** — an introductory and interactive course designed to equip you with the general tools to model macroeconomic constraints of the low-carbon transition, including sectoral transition dynamics, in developing countries. The course will provide information, the theoretical concepts of IO modeling, a deep understanding of related modeling techniques, and a comprehensive overview of the ESTEEM model developed by the French Development Agency (AFD), focusing both on the static and dynamic approaches. This interactive training package provides background knowledge, guided exercises, real-world data, and four core models to help you explore and master the ESTEEM model effectively.
 
 ## 🎯 Objective
 
-This training kit aims to provide learners with a clear, step-by-step understanding of the ESTEEM model in both its static and dynamic form, moving from **basic national input-output analysis** to the explicit construction of the **ESTEEM model** using advanced multi-regional IO databases, including various environmental extensions up until the construction of a fully-integrated **dynamic input-output model for the low-carbon transition**. 
+This training kit aims to provide learners with a clear, step-by-step understanding of the ESTEEM model in both its static and dynamic forms, moving from **basic national input-output analysis** to the explicit construction of the **ESTEEM model** using advanced multi-regional IO databases, including various environmental extensions up until the construction of a fully-integrated **dynamic input-output model for the low-carbon transition**. 
 
 ## 📊 Data Sources
 
@@ -41,7 +41,7 @@ The course uses publicly available, high-quality datasets:
 
 To complete the exercises and models, you will need:
 
-- [**R**](https://cran.r-project.org/) – Statistical programming language
+-<a href="https://cran.r-project.org/" target="_blank" rel="noopener noreferrer"><strong>R</strong></a> – Statistical programming language
   
 - [**RStudio**](https://posit.co/download/rstudio-desktop/) – User-friendly IDE for R
 
